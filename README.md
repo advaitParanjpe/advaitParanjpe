@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Advait Paranjpe
 
-<!--
-**advaitParanjpe/advaitParanjpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS ECE student at UCLA, interested in FPGA/ASIC design, embedded systems, SoC verification, and computer architecture.
 
-Here are some ideas to get you started:
+## About me
+- MSc in Electrical and Computer Engineering @ UCLA
+- Interested in digital design, RTL, verification, embedded systems, and hardware acceleration
+- Currently building projects in SystemVerilog, Python, and C/C++
+- Looking for hardware, FPGA, verification, or embedded opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured work
+- [Portfolio Website](https://advaitparanjpe.com)
+- [LinkedIn](https://www.linkedin.com/in/advait-paranjpe)
+- [Resume](PASTE_RESUME_LINK_HERE)
+
+## Projects
+- **AXI4-Stream Packet Router**  
+  Store-and-forward packet router in SystemVerilog with per-output FIFOs, packet drop behavior, and verification testbench.
+
+- **Spoken Digit Recognition**  
+  Noise-robust feature extraction pipeline using MFCC, deltas, and PCEN with a fixed BiLSTM backend.
+
+- **Personal Portfolio Website**  
+  Minimal responsive portfolio built with HTML, CSS, and JavaScript.
+
+## Tech
+**Languages:** Python, C/C++, JavaScript, MATLAB  
+**HDL/RTL:** SystemVerilog, Verilog, VHDL  
+**Tools:** Vivado, Icarus Verilog, GTKWave, Git, Linux
+
+## Connect with me
+- Website: https://advaitparanjpe.com
+- LinkedIn: https://www.linkedin.com/in/advait-paranjpe
