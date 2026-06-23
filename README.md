@@ -1,19 +1,8 @@
-# Hi, I'm Advait Paranjpe 👋
+# hey, i'm advait 👋
 
-MS ECE student at UCLA, interested in FPGA/ASIC design, embedded systems, SoC verification, and computer architecture.
+ECE master's student at UCLA, interested in digital hardware, computer architecture, FPGAs, and embedded systems.
 
-## About me
-- MSc in Electrical and Computer Engineering @ UCLA 🐻
-- Interested in digital design, RTL, verification, embedded systems, and hardware acceleration
-- Currently building projects in SystemVerilog, Python, and C/C++ 💻
-- Looking for hardware, FPGA, verification, or embedded opportunities
+currently building projects with SystemVerilog, Python, and C/C++.
 
-## Featured work
-- [Portfolio Website](https://advaitparanjpe.com) 🌐
-- [LinkedIn](https://www.linkedin.com/in/advait-paranjpe) 💼
-- [Resume](https://advaitparanjpe.com/resume.pdf) 📄
+find my stuff on my website: [website](https://advaitparanjpe.com)
 
-## Tech
-**Languages:** Python, C/C++, JavaScript, MATLAB 🧠  
-**HDL/RTL:** SystemVerilog, Verilog, VHDL 🔧  
-**Tools:** Vivado, Icarus Verilog, GTKWave, Git, Linux 🛠️
