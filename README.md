@@ -4,5 +4,5 @@ ECE master's student at UCLA, interested in digital hardware, computer architect
 
 currently building projects with SystemVerilog, Python, and C/C++.
 
-find my stuff on my website: [website](https://advaitparanjpe.com)
+find my stuff on my [website](https://advaitparanjpe.com)
 
